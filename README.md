@@ -1,4 +1,4 @@
-# Dance-Academy-Website      <img align="center" width="60" height="50" src="public/img/bank.png">
+# Dance-Academy-Website      
 ## A Simple Dance Academy website where interested customer can enter details such as name , personal details, contact etc.
 
 - - - -
